@@ -9,6 +9,7 @@ A alocação de memória dinâmica é um processo que reserva espaço na memóri
 
 * Atividade 2
 
+## O que é DOS?
 
 Em Assembly, "DOS" refere-se ao "Disk Operating System", um sistema operacional de disco usado em computadores pessoais nas décadas de 1980 e 1990. Geralmente, programas Assembly para "DOS" interagem diretamente com o hardware do computador, acessando recursos como tela e teclado através de convites do sistema operacional ou chamadas de BIOS. Os registradores são unidades de armazenamento dentro do processador que mantêm dados temporários, endereços de memória e sinais de status, sendo essenciais para operações eficientes.
 
