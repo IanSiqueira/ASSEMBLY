@@ -1,7 +1,5 @@
 # ASSEMBLY
 
-# Assenbly
-
 * Atividade 1
   
 ## Como funciona a alocação de memoria dinamica para armazenar seu nome?
