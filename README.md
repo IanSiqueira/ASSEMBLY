@@ -19,5 +19,6 @@ Em Assembly, "DOS" refere-se ao "Disk Operating System", um sistema operacional 
 
 ![image](https://github.com/IanSiqueira/ASSEMBLY/assets/101524235/a9e0eb98-3964-4550-a806-805183d5b1ea)
 
+### Código do print comentado.
 
- -> Explicar o funcionamento dos registradores.
+https://github.com/IanSiqueira/ASSEMBLY/blob/main/print.asm
