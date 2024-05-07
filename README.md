@@ -25,7 +25,8 @@ Em Assembly, "DOS" refere-se ao "Disk Operating System", um sistema operacional 
 
 ### Código do print comentado.
 
-```.MODEL small;Define o modelo de memoria small
+```
+.MODEL small;Define o modelo de memoria small
 .STACK 64;Aloca 
 um escopo de 64 bytes para a pilha
 
@@ -47,4 +48,10 @@ mov dx, offset message ;Pega o endereço da variável message e coloca em DX
 int 21h ; Instrução de interrupção
 
 main endp ; Marca o fim do procedimento
-end main; Indica o fim ```
+end main; Indica o fim
+```
+
+* Print do código rodando
+
+  ![image](https://github.com/IanSiqueira/ASSEMBLY/assets/101524235/4a562047-aabe-4531-8e10-ea8ccd7aadab)
+
