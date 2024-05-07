@@ -18,6 +18,11 @@ Em Assembly, "DOS" refere-se ao "Disk Operating System", um sistema operacional 
 
 ![image](https://github.com/IanSiqueira/ASSEMBLY/assets/101524235/a9e0eb98-3964-4550-a806-805183d5b1ea)
 
+* Programa de início no endereço 000
+* Load = Carregando o valor
+* Store = Definindo como esse valor vai ser chamado futuramente dentro do processo
+* Halt = Encerrar uma execução
+
 ### Código do print comentado.
 
 https://github.com/IanSiqueira/ASSEMBLY/blob/main/print.asm
